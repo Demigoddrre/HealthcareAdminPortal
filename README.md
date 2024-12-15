@@ -209,4 +209,3 @@ The project uses **GitHub Actions** for CI/CD automation. Check `.github/workflo
 ## Acknowledgments
 
 Project developed and maintained by **D'Andre Desir**.
-```
